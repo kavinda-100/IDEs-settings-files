@@ -1,0 +1,104 @@
+{
+	"git.confirmSync": false,
+	"git.autofetch": true,
+	"workbench.colorTheme": "Aura Dark",
+	"editor.wordWrap": "on",
+	"editor.wrappingIndent": "indent",
+	"editor.fontSize": 16,
+	"chat.fontSize": 14,
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 4,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "all",
+	"editor.guides.bracketPairs": "active",
+	"files.associations": {
+		"*.css": "tailwindcss"
+	},
+	"editor.quickSuggestions": {
+		"strings": "on"
+	},
+	"editor.suggestSelection": "first",
+	"eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact"
+	],
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[rust]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[solidity]": {
+		"editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
+	},
+	"[prisma]": {
+		"editor.defaultFormatter": "Prisma.prisma"
+	},
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[sql]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[yaml]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[toml]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[makefile]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[markdown]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[markdown-math]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[dockerfile]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[dockercompose]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.autoIndentOnPaste": true,
+	"explorer.compactFolders": false,
+	"workbench.iconTheme": "material-icon-theme",
+	"cSpell.userWords": [
+		"Chainlink",
+		"IPFS",
+		"Kavinda",
+		"kavindarathnayake",
+		"lucide",
+		"Rathnayake",
+		"Shadcn",
+		"shiki",
+		"Solana",
+		"Viem",
+		"Wagmi"
+	],
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"gitlens.ai.model": "vscode",
+	"gitlens.ai.vscode.model": "copilot:gpt-4.1",
+	"lldb.suppressUpdateNotifications": true
+}
